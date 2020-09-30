@@ -2,6 +2,6 @@
 
 ### Demo
 
-![Preview Image](./assets/img/work.gif)
+[Live Demo!](https://jsdev63.github.io/bestPortfolio/)
 
-[Live Deme!](https://jsdev63.github.io/bestPortfolio/)
+![Preview Image](./assets/img/work.gif)
